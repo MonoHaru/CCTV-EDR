@@ -1,4 +1,4 @@
-🌐 Languages: [[English](README.md)] | [한국어](README-KR.md)
+🌐 Languages: [[English](README.md)] | [[한국어](README-KR.md)]
 
 # CCTV-EDR: CCTV-based Emergency Detection & Response System 
 *(An emergency situation detection & reporting system leveraging existing CCTV infrastructure)*
