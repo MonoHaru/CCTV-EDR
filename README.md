@@ -1,10 +1,12 @@
+[English](README.md) | [한국어](README-KR.md)
+
 # CCTV-EDR: CCTV-based Emergency Detection & Response System 
 *(An emergency situation detection & reporting system leveraging existing CCTV infrastructure)*
 
 CCTV-EDR is a system that automatically detects emergency situations using CCTV infrastructure and immediately connects detection to reporting and real-time monitoring. It uses an object detection-based AI model on CCTV footage to automatically identify situations where a person collapses, faints, or loses consciousness. After detection, it enables rapid emergency response through a real-time alert and reporting workflow designed to minimize latency. Operators can also monitor the CCTV stream where the emergency was detected in real time.
 
 ## 🏆 Awards
-### 수상
+### Awards
 - **Competition**: 2021 WINNER LINC+ Capstone Design Untact Competition
 - **Period**: 2021.09 - 2021.12
 - **Host**: Ministry of Education, LINC
