@@ -1,3 +1,5 @@
+[English](README.md) | [한국어](README-KR.md)
+
 # CCTV-EDR: CCTV-based Emergency Detection & Response System 
 *(CCTV 인프라를 활용한 비상 상황 탐지 및 신고 시스템)*
 
